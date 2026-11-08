@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/sitemap.xml
+Sitemap: https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/news-sitemap.xml

@@ -23,6 +23,9 @@
 - [Trusted Plumber Zephyrhills for Home Plumbing](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/trusted-plumber-zephyrhills/): Trusted Plumber Zephyrhills for practical guidance and clear next steps at home. Call R&L Plumbers in Zephyrhills today to discuss your plumbing needs.
 - [Experienced Plumber Zephyrhills for Your Home](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/experienced-plumber-zephyrhills/): Experienced Plumber Zephyrhills for help understanding your home's plumbing needs. Call R&L Plumbers in Zephyrhills today and discuss what to do next.
 
+## Newsroom
+- [R&L Plumbers Shares Zephyrhills Plumbing Guide in Several Formats](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/news/2026-11-08-r-l-plumbers-shares-zephyrhills-plumbing-guide-in/): R&L Plumbers published a guide about Zephyrhills plumbing this week, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [Zephyrhills Plumber in Florida](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/): Get clear, practical plumbing help from R&L Plumbers in Zephyrhills, with a simple way to talk through your needs. Call +1813-755-8757.
 - [About and Contact R&L Plumbers](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/about/): About R&L Plumbers, Zephyrhills.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/r-and-l-plumbers-zephyrhills/news/rss.xml)
 - [Main resource site](https://rl-plumbers-zephyrhills.localbusinesses1.chatgpt.site)
